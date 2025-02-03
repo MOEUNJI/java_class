@@ -1,10 +1,10 @@
-package day1;
+package day2;
 
-public class _01_HelloWorld {
+public class _02_test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World");
+		System.out.println("TEst");
 	}
 
 }
